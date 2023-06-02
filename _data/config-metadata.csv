@@ -1,5 +1,3 @@
-#Configure what metadata appears when viewing an item
-
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
