@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/objects/ARTH_321_img005" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About ARTH 321;About the About Page" %}
 
 ## About ARTH 321: Public and Private Bodies: Italian Renaissance Art and Culture 1350-1550
 
