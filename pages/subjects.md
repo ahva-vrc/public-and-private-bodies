@@ -8,7 +8,7 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-{% include feature/image.html objectid="ARTH_321_img023" width="40" %}
+{% include feature/image.html objectid="ARTH_321_img023" width="20" %}
 
 ## Browse Subjects
 
