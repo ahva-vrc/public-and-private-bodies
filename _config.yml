@@ -22,12 +22,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: ARTH 321 Public and Private Bodies
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A Digital Exhibit
+tagline: Italian Renaissance Art and Culture 1350-1550
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This website is for the course ARTH 321 Public and Private Bodies: Italian Renaissance Art and Culture 1350-1550 taught by Joseph Monteyne in the Department of Art History, Visual Art and Theory, University of British Columbia. This course explores changing roles for visual art and culture within communes, courts, religious practices and private lives in Renaissance Italy. To learn more, click the button below."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: UBC AHVA
+author: AHVA VRC and Joseph Monteyne
 
 ##########
 # COLLECTION SETTINGS
