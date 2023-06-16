@@ -14,8 +14,7 @@ credits: true
 
 ## About ARTH 321: Public and Private Bodies: Italian Renaissance Art and Culture 1350-1550
 
-Instructor:
-Joseph Monteyne
+Instructor: <a href="https://ahva.ubc.ca/profile/joseph-monteyne/">Joseph Monteyne</a>
 
 Teaching Assistant:
  
