@@ -10,6 +10,8 @@ cloud-fields: site.data.theme.subjects-fields
 
 ## Browse Subjects
 
+{% include feature/image.html objectid="ARTH_321_img023" width="75" %}
+
 This course is organized various lectures on specific topics which are listed below.
 Use this word cloud visualization to browse artworks connected to a specific lecture topic or by artist.
 
