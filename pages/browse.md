@@ -7,3 +7,4 @@ permalink: /browse.html
 ---
 
 ## Browse Items
+The artworks studied in this course can be found here. Feel free to click on any artwork to see all the data about it.
