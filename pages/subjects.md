@@ -8,14 +8,15 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-{% include feature/image.html objectid="ARTH_321_img023" width="75" %}
+{% include feature/image.html objectid="ARTH_321_img023" width="50" %}
 
 ## Browse Subjects
 
-{% include feature/card.html header="<a href="https://ahva-vrc.github.io/public-and-private-bodies/item.html?id=ARTH_321_img023">Sofonisba Anguissola, Self Portrait with Bernardino Campi</a>" text="Oil on canvas. 111 x 109.5 cm." objectid="ARTH_321_img023" width="50" centered=true %}
+{% include feature/card.html header="Sofonisba Anguissola, Self Portrait with Bernardino Campi" text="Oil on canvas. 111 x 109.5 cm." objectid="ARTH_321_img023" width="50" centered=true %}
 
-This course is organized various lectures on specific topics which are listed below.
+This course is organized by lectures on specific topics which are listed below.
 Use this word cloud visualization to browse artworks connected to a specific lecture topic or by artist.
+Word size is determined by frequency and all words link to a corresponding collection search.
 
 Lectures:
 1. Giotto and the Private Chapel in Padua, Civic and Secular Art in 14th century Siena
@@ -28,5 +29,3 @@ Lectures:
 8. All Roads Lead to the Rome of Pope Julius II
 9. Maniera: High Renaissance Classicism Questioned
 10. Venice: Poesia, Desire and Painting
-
-Word size is determined by frequency and all words link to a corresponding collection search.
