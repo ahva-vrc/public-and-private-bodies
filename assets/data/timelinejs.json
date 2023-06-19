@@ -14,7 +14,7 @@
         },
         "text": {
           "headline": {{ site.title | append: ' Timeline' | jsonify }},
-          "text": {{ }}
+          "text": {{ site.description | jsonify }}
         }
     },
     "events": [
