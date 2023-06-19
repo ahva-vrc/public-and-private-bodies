@@ -12,7 +12,7 @@ cloud-fields: site.data.theme.subjects-fields
 
 ## Browse Subjects
 
-{% include feature/card.html header="Sofonisba Anguissola, Self Portrait with Bernardino Campi" text="Oil on canvas. 111 x 109.5 cm." objectid="ARTH_321_img023" width="50" centered=true %}
+{% include feature/card.html header="<a href="https://ahva-vrc.github.io/public-and-private-bodies/item.html?id=ARTH_321_img023">Sofonisba Anguissola, Self Portrait with Bernardino Campi</a>" text="Oil on canvas. 111 x 109.5 cm." objectid="ARTH_321_img023" width="50" centered=true %}
 
 This course is organized various lectures on specific topics which are listed below.
 Use this word cloud visualization to browse artworks connected to a specific lecture topic or by artist.
