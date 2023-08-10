@@ -40,10 +40,10 @@ metadata: public-and-private
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: "UBC Department of Art History, Visual Art and Theory"
+organization-link: https://ahva.ubc.ca/
+organization-logo-banner: https://vm.ahva.ubc.ca/vrc/ubc-logo-2021-ahva-standard-blue282rgb300.png
+organization-logo-nav: https://vm.ahva.ubc.ca/vrc/ubc-logo-2021-ahva-standard-blue282rgb72.png
 
 
 
